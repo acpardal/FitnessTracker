@@ -57,3 +57,28 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+######################
+# Eclipse
+######################
+
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+/src/main/resources/rebel.xml
+
+# Directories #
+/build/
+/bin/
+target/
